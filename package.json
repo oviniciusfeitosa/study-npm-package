@@ -1,6 +1,6 @@
 {
   "name": "all-hands-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Setting all words to UPPERCASE",
   "main": "index.js",
   "scripts": {
