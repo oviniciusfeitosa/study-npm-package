@@ -1,0 +1,19 @@
+{
+  "name": "study-npm-package",
+  "version": "1.0.0",
+  "description": "Creating public npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinnyfs89/study-npm-package.git"
+  },
+  "author": "Vinicius Feitosa da Silva <viniciusfesil@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinnyfs89/study-npm-package/issues"
+  },
+  "homepage": "https://github.com/vinnyfs89/study-npm-package#readme"
+}
