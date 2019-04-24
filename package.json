@@ -1,7 +1,7 @@
 {
-  "name": "study-npm-package",
+  "name": "all-hands-up",
   "version": "1.0.0",
-  "description": "Creating public npm package",
+  "description": "Setting all words to UPPERCASE",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
